@@ -1,4 +1,6 @@
-# Python Course WS 24/25
+# Python Course for Biologists at the University of Würzburg 
+
+**Course Number**: 06110203
 
 > [!NOTE]  
 > This is an introductory python course for Biology Master students at the University of Würzburg. The material is based on books that are freely available or accessible to the University Library. The course material can be re-used under CC-BY and the source code is under MIT license. The original course material is hosted on [WueCampus](https://wuecampus.uni-wuerzburg.de/).
@@ -11,21 +13,20 @@ An announcement forum (hosted in WueCampus)
 
 #### Pre-course message
 
-Dear students,
-
-this message contains important information about our course Programmieren mit Python, please read carefully:
-
-- please **fill out the very short pre-course survey** in WueCampus until Friday, February 14
-- there will be a beginner and an advanced group (you can decide for yourself, which one to join)
-- the course **starts next week on Monday, February 17 at 9:00 am** for everyone
-- after that, the beginner and advanced groups will meet at different times via Zoom (see tentative schedule in wuecampus)
-- between meetings you will work through assignments on your own machine
-- please **perform the setup steps** outlined in wuecampus and verify that it works
-- if you have any problems with the setup, let me know until Friday, February 14 (so best do the setup now)
-- join the Zoom meetings with the device you use for programming so you can potentially share your screen
-
-I'm looking forward to seeing you all next week.
-Markus Ankenbrand
+>Dear students,
+>
+>this message contains important information about our course Programmieren mit Python. Please read carefully:
+>
+> - please fill out the very short pre-course survey in wuecampus there will be at least one beginner and one advanced group (you can decide for yourself, which one to join)
+> - the course starts on Monday, March 16, at 9:00 am for everyone after that, the beginner and advanced groups will meet at different times via Zoom (see tentative schedule in wuecampus)
+> - between meetings, you will work through assignments on your own machine
+> - please perform the setup steps outlined in wuecampus and verify that it works
+> - if you have any problems with the setup, let me know before the course (so best do the setup now)
+> - join the Zoom meetings with the device you use for programming, so you can potentially share your screen
+> - for the final examination, you need to enroll in this Rosalind class: Rosalind Class Enroll Link (see additional info in wuecampus)
+>
+>I'm looking forward to seeing you in March.
+>Markus Ankenbrand
 
 ### Pre-course survey
 
@@ -56,7 +57,7 @@ l3 = [1, 2, 1, 6, 2, 4, 2]
 
 ### Course Repository
 
-https://github.com/BioMeDS/Python_Course_WS24
+https://github.com/BioMeDS/Python_for_Bio
 
 ## Communication
 
