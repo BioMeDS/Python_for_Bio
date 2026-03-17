@@ -259,8 +259,8 @@ in Miniforge Prompt (Windows), Terminal (mac OS, Linux)
 
 #### Material
 
-- [pandas docstring guide](https://pandas.pydata.org/docs/development/contributing_docstring.html)
-- [Type hints](https://docs.python.org/3/library/typing.html)
+- [pandas docstring guide](https://pandas.pydata.org/docs/development/contributing_docstring.html) (you might want to activate `python.analysis.supportDocstringTemplate` in VS Code)
+- [Type hints](https://docs.python.org/3/library/typing.html) (you might want to set `python.analysis.typeCheckingMode` to `basic` or `standard` in VS Code)
 - [Python testing in VS Code](https://code.visualstudio.com/docs/python/testing)
 - [temeit jupyter magic](https://ipython.readthedocs.io/en/stable/interactive/magics.html#magic-timeit)
 
