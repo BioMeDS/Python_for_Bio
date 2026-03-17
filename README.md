@@ -73,15 +73,17 @@ A question forum (hosted in WueCampus)
 
 This is a hands-on course, so you will practice programming in Python using your own computer. Therefore, you need to install some required software:
 
-- [Miniforge](https://github.com/conda-forge/miniforge?tab=readme-ov-file#install)
+- [python](https://www.python.org/) (just use the latest version)
 - [Visual Studio Code](https://code.visualstudio.com/download) (with [python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) and [jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) extensions)
 - [Git](https://git-scm.com/downloads) (advanced group)
 
-Please follow the instructions linked above, to first install Minforge (follow the instructions closely) and then VS Code. Then install the extensions from within VS Code. If you plan to attend the advanced group, install Git, as well.
+Please follow the instructions to first install python and then VS Code. Then install the extensions from within VS Code. If you plan to attend the advanced group, install Git, as well.
 
 To finalize and test the installation, create a folder for the python course and open this folder in VS Code. Create a new file called "test.ipynb" and create a new "Code" cell in the created notebook. Enter "1+1" and click the little play icon to run the code. You will be prompted to install required packages. After confirming and waiting a minute, the result "2" should show up under the cell (see screenshot). 🎉 Congratulations, you are all set 🎉
 
 <img width="994" height="474" alt="image" src="https://github.com/user-attachments/assets/856d4022-87a6-43f0-ae45-3e7cf1d0255d" />
+
+As this course is about learning the basics of python programming yourself, disable the built-in AI features of VS Code. Navigate to `File > Preferences > Settings > Features > Chat > Disable AI Features` and select that option.
 
 ## (Tentative) Schedule
 
