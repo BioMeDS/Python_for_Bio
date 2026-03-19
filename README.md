@@ -160,6 +160,7 @@ As this course is about learning the basics of python programming yourself, disa
 
 - work through Chapter 4, "A Statistical Interlude"
 - follow along with the code examples, execute them, and try some modifications
+- the book explains string formatting using an old syntax. This syntax is still valid, but there is a more modern approach: [f-strings](https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals). Look-up this topic and translate the examples in the book to f-string syntax.
 - write down any questions and problems that occur, and we'll discuss them in the afternoon session
 - when you are done, try to solve the exercises, you'll need the following additional tutorials:
 - walk through the first two `pandas` tutorials: "[What kind of data does pandas handle](https://pandas.pydata.org/docs/getting_started/intro_tutorials/01_table_oriented.html)" and "[How do I read and write tabular data](https://pandas.pydata.org/docs/getting_started/intro_tutorials/02_read_write.html)"
