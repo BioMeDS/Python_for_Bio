@@ -186,6 +186,19 @@ in Miniforge Prompt (Windows), Terminal (mac OS, Linux)
 - tables with `pandas`
 - plotting with `matplotlib`
 
+#### Popular Python Packages
+
+This is a non-exhaustive list of popular Python packages for the life sciences:
+
+- [pandas](https://pandas.pydata.org/) - working with tabular data
+- [matplotlib](https://matplotlib.org/) - plotting
+- [biopython](https://biopython.org/) - working with sequencing data
+- [scikit-learn](https://scikit-learn.org/stable/) - machine learning
+- [scikit-image](https://scikit-image.org/) - image analysis
+- [pytorch](https://docs.pytorch.org/tutorials) - deep learning
+- [numpy](https://numpy.org/) - numerical calculations
+- [scipy](https://scipy.org/) - scientific computing
+
 ### Thursday
 
 #### Tasks
